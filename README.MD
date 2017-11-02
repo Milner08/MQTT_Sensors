@@ -1,4 +1,4 @@
-#MQTT Sensors
+# MQTT Sensors
 
 Sample code of publishing sensors via MQTT with an Arduino and an ethernet sheild.
 
